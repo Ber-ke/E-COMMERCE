@@ -1,2 +1,10 @@
 # E-COMMERCE
-Full Stack
+Full Stact
+
+# Back-End İçin 
+cd backend
+npm run start
+
+# Front End İçin
+cd frontend
+npm run dev
