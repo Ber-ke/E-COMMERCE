@@ -1,5 +1,5 @@
 # E-COMMERCE
-Full Stact
+Full Stack
 
 # Back-End İçin     
 
