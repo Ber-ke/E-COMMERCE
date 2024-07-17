@@ -1,14 +1,18 @@
 # E-COMMERCE
 Full Stack
 
-# Back-End İçin     
+# Back-End    
 
 cd backend
 
+npm install
+
 npm run start
 
-# Front End İçin
+# Front End
 
 cd frontend
+
+npm install
 
 npm run dev
